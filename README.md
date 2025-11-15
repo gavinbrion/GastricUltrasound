@@ -26,4 +26,4 @@ This App is not intended to be a substitute for professional medical judgment. I
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy here.
 
 7. Contact Us
-If you have any questions about this Privacy Policy, please contact the developer at [Your Developer Contact Email Here].
+If you have any questions about this Privacy Policy, please contact the developer at gavinbrion710@gmail.com.
